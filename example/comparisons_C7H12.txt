@@ -1,0 +1,37 @@
+=== Pairwise Comparison for C7H12 ===
+
+C7H12_mol126_conf1 vs C7H12_mol126_conf3:
+  Max inertia diff: 0.0376 amu·Å²
+  Energy diff: 0.000070 kcal/mol
+  Dipole diff: 0.0005 Debye
+  Frequencies not available
+  HOMO diff: 0.001633 eV
+  LUMO diff: 0.000544 eV
+  Max rot const diff: 0.0069 GHz
+  OpenBabel RMSD: 0.979 Å
+  Moderate RMSD: ambiguous
+  Shape Tanimoto: 0.6704 (info only)
+  --> Likely duplicates
+
+C7H12_mol126_conf1 vs C7H12_mol12_conf1:
+  Max inertia diff: 99.6194 amu·Å²
+  Energy diff: 17.997230 kcal/mol
+  Dipole diff: 0.1728 Debye
+  Frequencies not available
+  HOMO diff: 0.106397 eV
+  LUMO diff: 0.569534 eV
+  Max rot const diff: 41.9404 GHz
+  Shape Tanimoto: 0.5661 (info only)
+  --> Not duplicates. Reasons: Inertia diff 99.6194>10, Energy diff 17.997230>0.1, Dipole diff 0.1728>0.1, HOMO diff 0.106397>0.1, LUMO diff 0.569534>0.1, Rot const diff 41.9404>0.5
+
+C7H12_mol126_conf3 vs C7H12_mol12_conf1:
+  Max inertia diff: 99.5818 amu·Å²
+  Energy diff: 17.997301 kcal/mol
+  Dipole diff: 0.1723 Debye
+  Frequencies not available
+  HOMO diff: 0.104764 eV
+  LUMO diff: 0.570079 eV
+  Max rot const diff: 41.9473 GHz
+  Shape Tanimoto: 0.5777 (info only)
+  --> Not duplicates. Reasons: Inertia diff 99.5818>10, Energy diff 17.997301>0.1, Dipole diff 0.1723>0.1, HOMO diff 0.104764>0.1, LUMO diff 0.570079>0.1, Rot const diff 41.9473>0.5
+

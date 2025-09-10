@@ -1,0 +1,3 @@
+Unique Conformers:
+C7H12_mol126_conf1
+C7H12_mol12_conf1

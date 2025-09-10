@@ -1,0 +1,4 @@
+Formula	OriginalBase	LogFile
+C7H12	C7H12_mol126_conf1	/Users/emmanous/Dropbox (Personal)/Projects with Amir/Chemical Database/GITHUB_filter_duplicates/example/C7H12_mol126_conf1.log
+C7H12	C7H12_mol126_conf3	/Users/emmanous/Dropbox (Personal)/Projects with Amir/Chemical Database/GITHUB_filter_duplicates/example/C7H12_mol126_conf3.log
+C7H12	C7H12_mol12_conf1	/Users/emmanous/Dropbox (Personal)/Projects with Amir/Chemical Database/GITHUB_filter_duplicates/example/C7H12_mol12_conf1.log
