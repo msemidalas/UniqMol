@@ -49,7 +49,7 @@ COVALENT_RADII = {
 }
 
 THRESHOLDS = {
-    'inertia': 10,
+    'inertia': 1,        # amu * A^2
     'energy': 0.1,       # kcal/mol
     'dipole': 0.1,       # Debye
     'frequencies': 1.0,  # cm^-1
